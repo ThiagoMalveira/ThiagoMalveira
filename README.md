@@ -1,4 +1,4 @@
-### Oi eu sou, Thiago Azevedo Malveira 👋
+### Oi, eu sou Thiago Azevedo Malveira 👋
 
 <div align="center">
   <a href="https://github.com/ThiagoMalveira">
