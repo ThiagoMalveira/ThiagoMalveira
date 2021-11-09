@@ -1,4 +1,4 @@
-### Oi, eu sou Thiago Azevedo Malveira, tenho 21 anos e sou formado em Análise e desenvolvimento de Sistemas!
+### Oi, eu sou Thiago Azevedo Malveira, sou um desenvolvedor frontend!
 
 <div align="center">
   <a href="https://github.com/ThiagoMalveira">
