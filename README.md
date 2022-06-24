@@ -1,4 +1,4 @@
-### Oi, eu sou Thiago Azevedo Malveira, sou um desenvolvedor frontend!
+### Hi, I'm Thiago Azevedo Malveira and I'm a fullstack developer!
 
 <div align="center">
   <a href="https://github.com/ThiagoMalveira">
