@@ -1,4 +1,4 @@
-### Hi, I'm Thiago Azevedo Malveira and I'm a fullstack developer that works with Reactjs and Nodejs!
+### Hi, I'm Thiago Azevedo Malveira and I'm a fullstack developer.
 
 <div align="center">
   <a href="https://github.com/ThiagoMalveira">
