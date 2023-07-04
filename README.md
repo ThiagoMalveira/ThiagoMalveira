@@ -17,7 +17,7 @@
 <div align='center'>
 
 ![](https://github-readme-stats.vercel.app/api?username=thiagomalveira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomalveira&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomalveira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 </div>
 
