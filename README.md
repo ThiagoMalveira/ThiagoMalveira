@@ -16,13 +16,6 @@
 
 </div>
 
-<div align='center'>
-  
-![Github Visitors](https://komarev.com/ghpvc/?username=ThiagoMalveira)
-
-</div>
-
-  
 #
 
 # 📊 GitHub Stats:
@@ -36,5 +29,7 @@
 
  <div align="center">
   <a href="https://www.linkedin.com/in/thiagomalveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+  ![Github Visitors](https://komarev.com/ghpvc/?username=ThiagoMalveira)
 </div>
 
