@@ -15,6 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,redux,styledcomponents,html,css,jest,materialui,mysql,graphql,git,github,apollo&perline=4)](https://skillicons.dev)
 
 </div>
+
+<div align='center'>
+  
+![Github Visitors](https://komarev.com/ghpvc/?username=ThiagoMalveira)
+
+</div>
+
   
 #
 
