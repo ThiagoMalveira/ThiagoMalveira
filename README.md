@@ -1,6 +1,6 @@
 ### Hi, I'm Thiago Azevedo Malveira and I'm a Software Engineer Frontend.
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22nmtp2wqv7uivzfwtuqiuyqi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22nmtp2wqv7uivzfwtuqiuyqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=22nmtp2wqv7uivzfwtuqiuyqi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22nmtp2wqv7uivzfwtuqiuyqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]
 
 <div align="center">
   <a href="https://github.com/ThiagoMalveira">
