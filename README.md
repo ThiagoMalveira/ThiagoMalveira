@@ -5,7 +5,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22nmtp2wqv7uivzfwtuqiuyqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <picture>
+   
   ![Snake Animation](https://github.com/ThiagoMalveira/ThiagoMalveira/blob/output/github-contribution-grid-snake-dark.svg)
+   
 </picture>
 
 
