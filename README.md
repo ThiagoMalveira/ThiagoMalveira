@@ -1,4 +1,4 @@
-### Hi, I'm Thiago Azevedo Malveira and I'm a Software Engineer Frontend.
+### Hi, I'm Thiago Azevedo Malveira and I'm a Software Engineer
 
 <div align="center">
   
