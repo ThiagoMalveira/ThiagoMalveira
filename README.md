@@ -1,4 +1,4 @@
-### Hi, I'm Thiago Azevedo Malveira and I'm a Software Engineer
+### Hi, I'm Thiago Azevedo Malveira and I'm a Software Engineer I'm used to work with Reactjs, Nodejs, GoLang and React-Native
 
 <div align="center">
   
